@@ -1,0 +1,41 @@
+body{	
+background-image: url('C:/Users/shree/Documents/portfolio/mohinii.jpg');
+height:150%;
+border:50px solid black;
+}
+.first{
+	text-align:right;
+	color: green;
+	
+}
+.third{
+	font-size: 45px;
+	color: pink;
+	font-style: italic;
+}
+.xxx{
+	color:pink;
+	font-style:italic;
+}
+.fourth{
+	font-size:20px;
+	font-style: italic;
+	color:pink;
+	
+}
+.fifth{
+	color:pink;
+	font-style:italic;
+}
+.six{
+	color:pink;
+	font-style: italic;
+}
+.seven{
+	color: pink;
+	font-style:italic;
+}
+h1{
+	color: purple;
+	background-color:pink;
+}
